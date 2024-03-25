@@ -1,0 +1,15 @@
+/Users/tylerbreithaupt/Desktop/CIT195/delegatesAndEvents/bin/Debug/net7.0/delegatesAndEvents
+/Users/tylerbreithaupt/Desktop/CIT195/delegatesAndEvents/bin/Debug/net7.0/delegatesAndEvents.deps.json
+/Users/tylerbreithaupt/Desktop/CIT195/delegatesAndEvents/bin/Debug/net7.0/delegatesAndEvents.runtimeconfig.json
+/Users/tylerbreithaupt/Desktop/CIT195/delegatesAndEvents/bin/Debug/net7.0/delegatesAndEvents.dll
+/Users/tylerbreithaupt/Desktop/CIT195/delegatesAndEvents/bin/Debug/net7.0/delegatesAndEvents.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/delegatesAndEvents/obj/Debug/net7.0/delegatesAndEvents.csproj.AssemblyReference.cache
+/Users/tylerbreithaupt/Desktop/CIT195/delegatesAndEvents/obj/Debug/net7.0/delegatesAndEvents.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylerbreithaupt/Desktop/CIT195/delegatesAndEvents/obj/Debug/net7.0/delegatesAndEvents.AssemblyInfoInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/delegatesAndEvents/obj/Debug/net7.0/delegatesAndEvents.AssemblyInfo.cs
+/Users/tylerbreithaupt/Desktop/CIT195/delegatesAndEvents/obj/Debug/net7.0/delegatesAndEvents.csproj.CoreCompileInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/delegatesAndEvents/obj/Debug/net7.0/delegatesAndEvents.dll
+/Users/tylerbreithaupt/Desktop/CIT195/delegatesAndEvents/obj/Debug/net7.0/refint/delegatesAndEvents.dll
+/Users/tylerbreithaupt/Desktop/CIT195/delegatesAndEvents/obj/Debug/net7.0/delegatesAndEvents.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/delegatesAndEvents/obj/Debug/net7.0/delegatesAndEvents.genruntimeconfig.cache
+/Users/tylerbreithaupt/Desktop/CIT195/delegatesAndEvents/obj/Debug/net7.0/ref/delegatesAndEvents.dll
